@@ -1,0 +1,13 @@
+*
+!*.*
+
+!app/src/main/java/com/example/myapplication/MainActivity.java
+!app/src/main/res/layout/activity_main.xml
+!app/src/main/AndroidManifest.xml
+
+app/src/main/java/com/example/myapplication/*
+!app/src/main/java/com/example/myapplication/MainActivity.java
+app/src/main/res/layout/*
+!app/src/main/res/layout/activity_main.xml
+app/src/main/*
+!app/src/main/AndroidManifest.xml
